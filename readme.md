@@ -27,7 +27,7 @@ This application is a Health Symptom Analyzer that helps users:
 
 1. **Clone the repository** (if applicable) or create a new directory for the project
    ```bash
-   git clone <https://github.com/andremugabo/Health-Symptom-Analyzer.git>
+   git clone https://github.com/andremugabo/Health-Symptom-Analyzer.git
    cd Health-Symptom-Analyzer
    ```
 
