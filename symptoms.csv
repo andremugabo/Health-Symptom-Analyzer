@@ -1,0 +1,16 @@
+symptom,intensity,severity
+fever,mild,1
+headache,moderate,2
+cough,severe,3
+fatigue,mild,1
+sore_throat,moderate,2
+shortness_of_breath,severe,3
+nausea,mild,1
+dizziness,moderate,2
+chest_pain,severe,3
+muscle_aches,mild,1
+runny_nose,moderate,2
+sneezing,mild,1
+chills,moderate,2
+vomiting,severe,3
+diarrhea,moderate,2
