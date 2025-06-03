@@ -74,7 +74,7 @@ This application is a Health Symptom Analyzer that helps users:
 
 5. **Run the application**
    ```bash
-   python health_analyzer.py
+   python app.py
    ```
 
 ## Dependencies Explanation
